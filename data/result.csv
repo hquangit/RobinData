@@ -1,0 +1,101 @@
+ID,Title,TitleVN,Release,Certificate,Runtime,Genre,Rates,Directors
+1,tenet ,tenet ,2020,PG-13,150 min ,"action,sci-fi",7.8,christopher nolan 
+2,the gentlemen ,quý ông thế giới ngầm ,2019,R,113 min ,"action,comedy,crime",7.9,guy ritchie 
+3,once upon a time in hollywood ,chuyện ngày xưa ở hollywood ,2019,R,161 min ,"comedy,drama",7.6,quentin tarantino 
+4,one flew over the cuckoo s nest ,bay trên tổ chim cúc cu ,1975,R,133 min ,drama,8.7,milos forman 
+5,knives out ,kẻ đâm lén ,2019,PG-13,130 min ,"comedy,crime,drama",7.9,rian johnson 
+6,harry potter and the sorcerer s stone ,harry potter và hòn đá phù thủy ,2001,PG,152 min ,"adventure,family,fantasy",7.6,chris columbus 
+7,moneyball ,moneyball ,2011,PG-13,133 min ,"biography,drama,sport",7.6,bennett miller 
+8,the nightmare before christmas ,the nightmare before christmas ,1993,PG,76 min ,"animation,family,fantasy",8,henry selick 
+9,the shawshank redemption ,nhà tù shawshank ,1994,R,142 min ,drama,9.3,frank darabont 
+10,joker ,joker ,2019,R,122 min ,"crime,drama,thriller",8.5,todd phillips 
+11,halloween ,halloween ,1978,R,91 min ,"horror,thriller",7.8,john carpenter 
+12,avengers endgame ,avengers hồi kết ,2019,PG-13,181 min ,"action,adventure,drama",8.4,anthony russo 
+13,parasite ,ký sinh trùng ,2019,R,132 min ,"comedy,drama,thriller",8.6,bong joon ho 
+14,hamilton ,hamilton ,2020,PG-13,160 min ,"biography,drama,history",8.7,thomas kail 
+15,pulp fiction ,pulp fiction ,1994,R,154 min ,"crime,drama",8.9,quentin tarantino 
+16,the wolf of wall street ,sói già phố wall ,2013,R,180 min ,"biography,crime,drama",8.2,martin scorsese 
+17,1917,1917,2019,R,119 min ,"drama,war",8.3,sam mendes 
+18,the godfather ,bố già ,1972,R,175 min ,"crime,drama",9.2,francis ford coppola 
+19,interstellar ,hố đen tử thần ,2014,PG-13,169 min ,"adventure,drama,sci-fi",8.6,christopher nolan 
+20,the silence of the lambs ,sự im lặng của bầy cừu ,1991,R,118 min ,"crime,drama,thriller",8.6,jonathan demme 
+21,the shining ,the shining ,1980,R,146 min ,"drama,horror",8.4,stanley kubrick 
+22,jojo rabbit ,jojo rabbit ,2019,PG-13,108 min ,"comedy,drama,war",7.9,taika waititi 
+23,the dark knight ,kỵ sĩ bóng đêm ,2008,PG-13,152 min ,"action,crime,drama",9,christopher nolan 
+24,inception ,kẻ đánh cắp giấc mơ ,2010,PG-13,148 min ,"action,adventure,sci-fi",8.8,christopher nolan 
+25,little women ,những người phụ nữ bé nhỏ ,2019,PG,135 min ,"drama,romance",7.8,greta gerwig 
+26,fargo ,fargo ,1996,R,98 min ,"crime,drama,thriller",8.1,joel coen 
+27,mad max fury road ,max điên con đường tử thần ,2015,R,120 min ,"action,adventure,sci-fi",8.1,george miller 
+28,titanic ,titanic ,1997,PG-13,194 min ,"drama,romance",7.8,james cameron 
+29,get out ,trốn thoát , i 2017  ,R,104 min ,"horror,mystery,thriller",7.7,jordan peele 
+30,back to the future ,trở lại tương lai ,1985,PG,116 min ,"adventure,comedy,sci-fi",8.5,robert zemeckis 
+31,spider man into the spider verse ,người nhện vũ trụ mới ,2018,PG,117 min ,"animation,action,adventure",8.4,bob persichetti 
+32,thor ragnarok ,thor tận thế ragnarok ,2017,PG-13,130 min ,"action,adventure,comedy",7.9,taika waititi 
+33,coco ,coco , i 2017  ,PG,105 min ,"animation,adventure,family",8.4,lee unkrich 
+34,ford v ferrari ,cuộc đua lịch sử ,2019,PG-13,152 min ,"action,biography,drama",8.1,james mangold 
+35,the lord of the rings the fellowship of the ring ,the lord of the rings the fellowship of the ring ,2001,PG-13,178 min ,"action,adventure,drama",8.8,peter jackson 
+36,blade runner 2049 ,tội phạm nhân bản 2049 ,2017,R,164 min ,"action,drama,mystery",8,denis villeneuve 
+37,harry potter and the goblet of fire ,harry potter và chiếc cốc lửa ,2005,PG-13,157 min ,"adventure,family,fantasy",7.7,mike newell 
+38,se7en ,se7en ,1995,R,127 min ,"crime,drama,mystery",8.6,david fincher 
+39,the matrix ,ma trận ,1999,R,136 min ,"action,sci-fi",8.7,lana wachowski 
+40,e t the extra terrestrial ,e t the extra terrestrial ,1982,PG,115 min ,"family,sci-fi",7.8,steven spielberg 
+41,dazed and confused ,dazed and confused ,1993,R,102 min ,comedy,7.6,richard linklater 
+42,fight club ,fight club ,1999,R,139 min ,drama,8.8,david fincher 
+43,gone girl ,cô gái mất tích ,2014,R,149 min ,"drama,mystery,thriller",8.1,david fincher 
+44,the fifth element ,the fifth element ,1997,PG-13,126 min ,"action,adventure,sci-fi",7.7,luc besson 
+45,the exorcist ,the exorcist ,1973,R,122 min ,horror,8,william friedkin 
+46,the peanut butter falcon ,the peanut butter falcon ,2019,PG-13,97 min ,"comedy,drama",7.6,tyler nilson 
+47,zodiac ,zodiac ,2007,R,157 min ,"crime,drama,mystery",7.7,david fincher 
+48,edward scissorhands ,người kéo học yêu ,1990,PG-13,105 min ,"drama,fantasy,romance",7.9,tim burton 
+49,alien ,alien ,1979,R,117 min ,"horror,sci-fi",8.4,ridley scott 
+50,watchmen ,người hùng báo thù ,2009,R,162 min ,"action,drama,mystery",7.6,zack snyder 
+51,the goonies ,the goonies ,1985,PG,114 min ,"adventure,comedy,family",7.8,richard donner 
+52,django unchained ,hành trình django ,2012,R,165 min ,"drama,western",8.4,quentin tarantino 
+53,gladiator ,gladiator ,2000,R,155 min ,"action,adventure,drama",8.5,ridley scott 
+54,jurassic park ,công viên kỷ jura ,1993,PG-13,127 min ,"action,adventure,sci-fi",8.1,steven spielberg 
+55,schindler s list ,bản danh sách của schindler ,1993,R,195 min ,"biography,drama,history",8.9,steven spielberg 
+56,the thing ,the thing ,1982,R,109 min ,"horror,mystery,sci-fi",8.1,john carpenter 
+57,three billboards outside ebbing missouri ,three billboards truy tìm công lý ,2017,R,115 min ,"comedy,crime,drama",8.2,martin mcdonagh 
+58,the departed ,điệp vụ boston ,2006,R,151 min ,"crime,drama,thriller",8.5,martin scorsese 
+59,pride prejudice ,kiêu hãnh và định kiến ,2005,PG,129 min ,"drama,romance",7.8,joe wright 
+60,requiem for a dream ,nguyen cau cho mot giac mo ,2000,R,102 min ,drama,8.3,darren aronofsky 
+61,inglourious basterds ,định mệnh ,2009,R,153 min ,"adventure,drama,war",8.3,quentin tarantino 
+62,harry potter and the deathly hallows part 2 ,harry potter và bảo bối tử thần phần 2 ,2011,PG-13,130 min ,"adventure,drama,fantasy",8.1,david yates 
+63,goodfellas ,goodfellas ,1990,R,146 min ,"biography,crime,drama",8.7,martin scorsese 
+64,avengers infinity war ,avengers cuộc chiến vô cực ,2018,PG-13,149 min ,"action,adventure,sci-fi",8.4,anthony russo 
+65,call me by your name ,call me by your name ,2017,R,132 min ,"drama,romance",7.9,luca guadagnino 
+66,the irishman ,người đàn ông ireland ,2019,R,209 min ,"biography,crime,drama",7.9,martin scorsese 
+67,ghostbusters ,ghostbusters ,1984,PG,105 min ,"action,comedy,fantasy",7.8,ivan reitman 
+68,léon the professional ,léon ,1994,R,110 min ,"action,crime,drama",8.5,luc besson 
+69,forrest gump ,forrest gump ,1994,PG-13,142 min ,"drama,romance",8.8,robert zemeckis 
+70,the dark knight rises ,kỵ sĩ bóng đêm trỗi dậy ,2012,PG-13,164 min ,"action,adventure",8.4,christopher nolan 
+71,harry potter and the prisoner of azkaban ,harry potter và tên tù nhân ngục azkaban ,2004,PG,142 min ,"adventure,family,fantasy",7.9,alfonso cuarón 
+72,dunkirk ,cuộc di tản dunkirk ,2017,PG-13,106 min ,"action,drama,history",7.9,christopher nolan 
+73,the prestige ,ảo thuật gia đấu trí ,2006,PG-13,130 min ,"drama,mystery,sci-fi",8.5,christopher nolan 
+74,prisoners ,lần theo dấu vết ,2013,R,153 min ,"crime,drama,mystery",8.1,denis villeneuve 
+75,the green mile ,the green mile ,1999,R,189 min ,"crime,drama,fantasy",8.6,frank darabont 
+76,the hateful eight ,the hateful eight ,2015,R,168 min ,"crime,drama,mystery",7.8,quentin tarantino 
+77,baby driver ,quái xế baby ,2017,R,113 min ,"action,crime,music",7.6,edgar wright 
+78,psycho ,psycho ,1960,R,109 min ,"horror,mystery,thriller",8.5,alfred hitchcock 
+79,saving private ryan ,giải cứu binh nhì ryan ,1998,R,169 min ,"drama,war",8.6,steven spielberg 
+80,american psycho ,american psycho ,2000,R,101 min ,"comedy,crime,drama",7.6,mary harron 
+81,no country for old men ,không chốn dung thân ,2007,R,122 min ,"crime,drama,thriller",8.1,ethan coen 
+82,guardians of the galaxy ,vệ binh giải ngân hà ,2014,PG-13,121 min ,"action,adventure,comedy",8,james gunn 
+83,sicario ,ranh gioi ,2015,R,121 min ,"action,crime,drama",7.6,denis villeneuve 
+84,the princess bride ,the princess bride ,1987,PG,98 min ,"adventure,family,fantasy",8.1,rob reiner 
+85,american beauty ,vẻ đẹp mỹ ,1999,R,122 min ,drama,8.3,sam mendes 
+86,boogie nights ,boogie nights ,1997,R,155 min ,drama,7.9,paul thomas anderson 
+87,mission impossible fallout ,nhiệm vụ bất khả thi sụp đổ ,2018,PG-13,147 min ,"action,adventure,thriller",7.7,christopher mcquarrie 
+88,whiplash ,whiplash ,2014,R,106 min ,"drama,music",8.5,damien chazelle 
+89,star trek ,star trek ,2009,PG-13,127 min ,"action,adventure,sci-fi",7.9,j j abrams 
+90,taxi driver ,taxi driver ,1976,R,114 min ,"crime,drama",8.3,martin scorsese 
+91,v for vendetta ,v for vendetta ,2005,R,132 min ,"action,drama,sci-fi",8.2,james mcteigue 
+92,the martian ,người về từ sao hỏa ,2015,PG-13,144 min ,"adventure,drama,sci-fi",8,ridley scott 
+93,the lord of the rings the return of the king ,the lord of the rings the return of the king ,2003,PG-13,201 min ,"action,adventure,drama",8.9,peter jackson 
+94,the social network ,mạng xã hội ,2010,PG-13,120 min ,"biography,drama",7.7,david fincher 
+95,casino royale ,sòng bạc hoàng gia ,2006,PG-13,144 min ,"action,adventure,thriller",8,martin campbell 
+96,hacksaw ridge ,hacksaw ridge ,2016,R,139 min ,"biography,drama,history",8.1,mel gibson 
+97,home alone ,ở nhà một mình ,1990,PG,103 min ,"comedy,family",7.6,chris columbus 
+98,the fly ,the fly ,1986,R,96 min ,"drama,horror,sci-fi",7.6,david cronenberg 
+99,the big lebowski ,the big lebowski ,1998,R,117 min ,"comedy,crime,sport",8.1,joel coen 
+100,300,300,2006,R,117 min ,"action,drama",7.6,zack snyder 
