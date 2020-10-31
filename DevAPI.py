@@ -17,6 +17,9 @@ mysql.init_app(app)
 def search_films(str):
 	sql = '''
 		SELECT * FROM robin_films WHERE Title LIKE %?%
+					  OR TitleVN LIKE %?%
+					  OR Genre LIKE %?%
+					  OR Director LIKE %?%
 	'''
 	cur = mysql.connection.cursor()
 	rows = cur.execute(sql, (str,)).fetchall()
